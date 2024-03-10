@@ -3,7 +3,7 @@ The objective of this application is to get information from police officer at i
 app and send notification to the registered customer’s app in form of push notification. 
 Police control room will play as a bridge between fetching information from police officer 
 and making ready to broadcast messages from a central server of control room
-/// Implementation Details 
+/// Implementation Details/// 
 In this project based on smartwatch application I have created a User Story mapping to prioritize the actions 
 for each process step according to the importance for this application. To provide a better overview, several requirements have been depicted in 
 UML Diagrams.
